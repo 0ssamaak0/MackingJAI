@@ -60,7 +60,7 @@ curl http://127.0.0.1:11435/v1/chat/completions \
         },
         {
             "role": "user",
-            "content": "Paris is the capiatl of France"
+            "content": "Paris is the capital of France"
         }
     ]
 }'
